@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Sibonelo Maphelana from South Africa<br><br>- Contact me maphelanasibonelo@gmail.com<br>- 📚 I'm currently learning Spring boot, Postgresql, Angular<br>- ⚡ In my free time I read tech books, play chess and rewind with snooker</p>
+<p align="left">I'm Sibonelo Maphelana from South Africa<br><br>- Contact me: **maphelanasibonelo@gmail.com**<br>- 📚 I'm currently learning Spring boot, Postgresql, Angular<br>- ⚡ In my free time I read tech books, play chess and rewind with snooker</p>
 
 ###
 
